@@ -1,0 +1,10 @@
+.SidebarWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  width: max-content;
+}
+
+.Content {
+  width: 100%;
+}
