@@ -6,14 +6,16 @@ import CheckedCheckbox from "./CheckedCheckbox";
 import PostponedCheckbox from "./PostponedCheckbox";
 import CanceledCheckbox from "./CanceledCheckbox";
 import EmptyCheckbox from "./EmptyCheckbox";
+import Drop from "./Drop";
 
 export {
   Calendar,
   CheckedCheckbox,
   PostponedCheckbox,
   CanceledCheckbox,
-  EmptyCheckbox,
   Tasks,
   Shop,
   Settings,
+  EmptyCheckbox,
+  Drop,
 };
